@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+printf("I’m Kata Androsova, and I’m not a monkey") ;
+getchar() ;
+}
